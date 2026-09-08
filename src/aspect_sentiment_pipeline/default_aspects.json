@@ -1,0 +1,12 @@
+{
+  "food": ["food", "dish", "dishes", "meal", "meals", "cuisine", "menu", "taste", "flavour", "flavor"],
+  "service": ["service", "customer service", "table service"],
+  "staff": ["staff", "server", "servers", "waiter", "waiters", "waitress", "waitresses", "host", "manager"],
+  "ambience": ["ambience", "ambiance", "atmosphere", "decor", "music", "interior"],
+  "price": ["price", "prices", "pricing", "cost", "costs", "value", "bill"],
+  "wait_time": ["wait time", "waiting time", "waiting", "queue", "delay", "delivery time"],
+  "cleanliness": ["cleanliness", "clean", "dirty", "hygiene", "restroom", "washroom"],
+  "location": ["location", "neighbourhood", "neighborhood", "parking", "area"],
+  "portion_size": ["portion", "portions", "portion size", "serving size", "quantity"],
+  "drinks": ["drink", "drinks", "beverage", "beverages", "cocktail", "cocktails", "wine", "beer"]
+}
